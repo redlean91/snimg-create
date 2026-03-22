@@ -7,7 +7,9 @@ Example: TB311FU, TB311XU, TB322FC
 It's a simple command line program, arguments are:
 
 **--sn1**: The first serial number of the bootloader
+
 **--sn2**: The second serial number of the bootloader
+
 **--output**/**-o**: Output path of where you want the sn.img to be (default: sn.img)
 
 ## Obtaining sn1 and sn2
